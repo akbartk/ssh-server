@@ -1,6 +1,6 @@
 FROM linuxserver/openssh-server:latest
 
-LABEL maintainer="aptalca - mod by akbartk"
+LABEL maintainer= "aptalca and mod by akbartk"
 
 RUN \
 echo "**** install runtime packages ****" && \
